@@ -1,0 +1,8 @@
+Participants: 10
+
+Clicked link: 6
+Entered credentials: 2
+Reported phishing: 4
+
+Observation:
+Most participants could not identify phishing indicators.

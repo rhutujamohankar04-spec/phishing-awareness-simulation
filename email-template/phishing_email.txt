@@ -1,0 +1,16 @@
+Subject: Urgent Password Reset Required
+
+Dear User,
+
+We detected suspicious activity in your account.
+
+For security reasons, please verify your account immediately.
+
+Click the link below to confirm your identity:
+
+http://localhost/login.html
+
+Failure to verify within 24 hours may result in temporary account suspension.
+
+Regards,
+Security Team
